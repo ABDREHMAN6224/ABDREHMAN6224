@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, LLMs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-arm.netlify.app/](https://portfolio-arm.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-arm.vercel.app)
 
 - 💬 Ask me about **React, Node, Express, MongoDB, Postgres, NEXT JS**
 
