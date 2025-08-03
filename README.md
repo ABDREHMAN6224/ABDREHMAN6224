@@ -2,13 +2,13 @@
 
 # 👨‍💻 Abdul Rehman Memon
 
-### Full Stack Developer | MERN Stack & Next.js Specialist
+### Full Stack Engineer | MERN Stack & Next.js Specialist
 
 🎓 **Computer Science Student** at NUST-H12 (SEECS) | 📍 Islamabad, Pakistan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://portfolio-website-arm.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdul-rehman-memon-9a908924b)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amemon.bscs22seecs@seecs.edu.pk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-rehman-memon-9a908924b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:memonabdulrehman6224@gmail.com)
 
 </div>
 
