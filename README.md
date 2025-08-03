@@ -22,7 +22,7 @@ const abdul = {
     education: "BSCS at NUST-H12 SEECS",
     currentFocus: "Building scalable web applications",
     learning: ["Go Lang", "Advanced System Design"],
-    interests: ["Full Stack Development", "Data Science", "Open Source"]
+    interests: ["Full Stack Development", "System Design", "Open Source"]
 };
 ```
 
